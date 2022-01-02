@@ -1,0 +1,13 @@
+get http://localhost:3000/transaction/61cfe9a10c6cd3783915f917 HTTP/1.1
+# Content-Type: application/json
+# Accept: application/json
+
+# {
+#     "UserID" : 2,
+#     "KodeTransaksi" : "89286", 
+#     "NisSiswa" : "191519915", 
+#     "NamaSiswa" : "soma ", 
+#     "JumlahTransaksi" : "100000",
+#     "StatusTransaksi" : ""
+# }
+
